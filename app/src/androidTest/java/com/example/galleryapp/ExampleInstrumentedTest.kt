@@ -1,4 +1,4 @@
-package com.example.image_viewer
+package com.example.galleryapp
 
 import androidx.test.InstrumentationRegistry
 import androidx.test.runner.AndroidJUnit4
@@ -19,6 +19,6 @@ class ExampleInstrumentedTest {
     fun useAppContext() {
         // Context of the app under test.
         val appContext = InstrumentationRegistry.getTargetContext()
-        assertEquals("com.example.image_viewer", appContext.packageName)
+        assertEquals("com.example.galleryapp", appContext.packageName)
     }
 }

@@ -1,3 +1,16 @@
 <resources>
-    <string name="app_name">Image_Viewer</string>
+    <string name="app_name">Gallery App</string>
+    <string name="rocky_cliff_overlooking_ocean">Rocky cliff overlooking ocean.</string>
+    <string name="abstractart">abstract expressionist art</string>
+    <string name="vwbus">VW bus in the mountains</string>
+    <string name="ricepaddies">aerial shot of rice paddies</string>
+    <string name="beach">rocky beach at sunset</string>
+    <string name="alley">alley in modern city</string>
+    <string name="buildings">modern buildings with lights</string>
+    <string name="fireworks">firework display for canada day</string>
+    <string name="flower">single red flower</string>
+    <string name="shoes">fresh kicks</string>
+    <string name="coconut">coconut tress without any limes</string>
+    <string name="houses">accidental wes anderson shot</string>
+    <string name="stars_at_night">Stars at night</string>
 </resources>
